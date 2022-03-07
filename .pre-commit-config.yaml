@@ -1,0 +1,5 @@
+repos:
+- repo: https://github.com/ksang/markdown-index-autogen
+  rev: v0.1.0
+  hooks:
+  - id: markdown-index-autogen
