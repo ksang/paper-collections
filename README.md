@@ -22,6 +22,7 @@ A place to collect and sync papers I found helpful.
 	- [Barreto et al. - 2020 - Fast reinforcement learning with generalized polic.pdf](./reinforcement%20learning/Barreto%20et%20al.%20-%202020%20-%20Fast%20reinforcement%20learning%20with%20generalized%20polic.pdf)
 	- [OpenAI et al. - 2019 - Dota 2 with Large Scale Deep Reinforcement Learnin.pdf](./reinforcement%20learning/OpenAI%20et%20al.%20-%202019%20-%20Dota%202%20with%20Large%20Scale%20Deep%20Reinforcement%20Learnin.pdf)
 	- [Ha - 2018 - Reinforcement Learning for Improving Agent Design.pdf](./reinforcement%20learning/Ha%20-%202018%20-%20Reinforcement%20Learning%20for%20Improving%20Agent%20Design.pdf)
+	- [Abel - 2022 - A Theory of Abstraction in Reinforcement Learning.pdf](./reinforcement%20learning/Abel%20-%202022%20-%20A%20Theory%20of%20Abstraction%20in%20Reinforcement%20Learning.pdf)
 	- [Mirowski et al. - Learning to Navigate in Cities Without a Map.pdf](./reinforcement%20learning/Mirowski%20et%20al.%20-%20Learning%20to%20Navigate%20in%20Cities%20Without%20a%20Map.pdf)
 	- [Espeholt et al. - 2018 - IMPALA Scalable Distributed Deep-RL with Importan.pdf](./reinforcement%20learning/Espeholt%20et%20al.%20-%202018%20-%20IMPALA%20Scalable%20Distributed%20Deep-RL%20with%20Importan.pdf)
 	- [Silver et al. - 2021 - Reward is enough.pdf](./reinforcement%20learning/Silver%20et%20al.%20-%202021%20-%20Reward%20is%20enough.pdf)
