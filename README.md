@@ -57,6 +57,7 @@ A place to collect and sync papers I found helpful.
 	- [Tran et al. - 2015 - Learning Spatiotemporal Features with 3D Convoluti.pdf](./computer%20vision/Tran%20et%20al.%20-%202015%20-%20Learning%20Spatiotemporal%20Features%20with%203D%20Convoluti.pdf)
 	- [Karras et al. - 2018 - A Style-Based Generator Architecture for Generativ.pdf](./computer%20vision/Karras%20et%20al.%20-%202018%20-%20A%20Style-Based%20Generator%20Architecture%20for%20Generativ.pdf)
 	- [Lin et al. - 2018 - Focal Loss for Dense Object Detection.pdf](./computer%20vision/Lin%20et%20al.%20-%202018%20-%20Focal%20Loss%20for%20Dense%20Object%20Detection.pdf)
+	- [Xu et al. - 2022 - Back to Reality Weakly-supervised 3D Object Detec.pdf](./computer%20vision/Xu%20et%20al.%20-%202022%20-%20Back%20to%20Reality%20Weakly-supervised%203D%20Object%20Detec.pdf)
 	- [Carion et al. - 2020 - End-to-End Object Detection with Transformers.pdf](./computer%20vision/Carion%20et%20al.%20-%202020%20-%20End-to-End%20Object%20Detection%20with%20Transformers.pdf)
 	- [Dosovitskiy et al. - 2021 - An Image is Worth 16x16 Words Transformers for Im.pdf](./computer%20vision/Dosovitskiy%20et%20al.%20-%202021%20-%20An%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Im.pdf)
 	- [Bochkovskiy et al. - 2020 - YOLOv4 Optimal Speed and Accuracy of Object Detec.pdf](./computer%20vision/Bochkovskiy%20et%20al.%20-%202020%20-%20YOLOv4%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detec.pdf)
