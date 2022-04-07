@@ -110,6 +110,7 @@ A place to collect and sync papers I found helpful.
 	- [Boureau et al. - 2010 - Learning mid-level features for recognition.pdf](./deep%20learning/Boureau%20et%20al.%20-%202010%20-%20Learning%20mid-level%20features%20for%20recognition.pdf)
 	- [Aubry and Russell - 2015 - Understanding Deep Features with Computer-Generate.pdf](./deep%20learning/Aubry%20and%20Russell%20-%202015%20-%20Understanding%20Deep%20Features%20with%20Computer-Generate.pdf)
 	- [Voita and Titov - 2020 - Information-Theoretic Probing with Minimum Descrip.pdf](./deep%20learning/Voita%20and%20Titov%20-%202020%20-%20Information-Theoretic%20Probing%20with%20Minimum%20Descrip.pdf)
+	- [Kingma and Dhariwal - Glow Generative Flow with Invertible 1×1 Convolut.pdf](./deep%20learning/Kingma%20and%20Dhariwal%20-%20Glow%20Generative%20Flow%20with%20Invertible%201×1%20Convolut.pdf)
 	- [Schölkopf et al. - 2021 - Towards Causal Representation Learning.pdf](./deep%20learning/Schölkopf%20et%20al.%20-%202021%20-%20Towards%20Causal%20Representation%20Learning.pdf)
 - [computation methods](./computation%20methods)
 	- [Yu et al. - 2019 - Benchmarking TPU, GPU, and CPU Platforms for Deep .pdf](./computation%20methods/Yu%20et%20al.%20-%202019%20-%20Benchmarking%20TPU,%20GPU,%20and%20CPU%20Platforms%20for%20Deep%20.pdf)
