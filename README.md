@@ -50,6 +50,7 @@ A place to collect and sync papers I found helpful.
 	- [Kirillov et al. - 2019 - Panoptic Segmentation.pdf](./computer%20vision/Kirillov%20et%20al.%20-%202019%20-%20Panoptic%20Segmentation.pdf)
 	- [Ke et al. - Prototypical Cross-Attention Networks for Multiple.pdf](./computer%20vision/Ke%20et%20al.%20-%20Prototypical%20Cross-Attention%20Networks%20for%20Multiple.pdf)
 	- [Martin-Brualla et al. - 2020 - NeRF in the Wild Neural Radiance Fields for Uncon.pdf](./computer%20vision/Martin-Brualla%20et%20al.%20-%202020%20-%20NeRF%20in%20the%20Wild%20Neural%20Radiance%20Fields%20for%20Uncon.pdf)
+	- [Long et al. - 2015 - Fully Convolutional Networks for Semantic Segmenta.pdf](./computer%20vision/Long%20et%20al.%20-%202015%20-%20Fully%20Convolutional%20Networks%20for%20Semantic%20Segmenta.pdf)
 	- [Gatys et al. - 2015 - A Neural Algorithm of Artistic Style.pdf](./computer%20vision/Gatys%20et%20al.%20-%202015%20-%20A%20Neural%20Algorithm%20of%20Artistic%20Style.pdf)
 	- [Park and Kim - 2022 - How Do Vision Transformers Work.pdf](./computer%20vision/Park%20and%20Kim%20-%202022%20-%20How%20Do%20Vision%20Transformers%20Work.pdf)
 	- [Lin et al. - 2017 - Feature Pyramid Networks for Object Detection.pdf](./computer%20vision/Lin%20et%20al.%20-%202017%20-%20Feature%20Pyramid%20Networks%20for%20Object%20Detection.pdf)
