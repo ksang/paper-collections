@@ -37,6 +37,7 @@ A place to collect and sync papers I found helpful.
 	- [Côté et al. - 2018 - TextWorld A Learning Environment for Text-based G.pdf](./reinforcement%20learning/Côté%20et%20al.%20-%202018%20-%20TextWorld%20A%20Learning%20Environment%20for%20Text-based%20G.pdf)
 	- [Heinrich and Lanctot - Fictitious Self-Play in Extensive-Form Games.pdf](./reinforcement%20learning/Heinrich%20and%20Lanctot%20-%20Fictitious%20Self-Play%20in%20Extensive-Form%20Games.pdf)
 	- [Szepesvári - 2010 - Algorithms for Reinforcement Learning 2.pdf](./reinforcement%20learning/Szepesvári%20-%202010%20-%20Algorithms%20for%20Reinforcement%20Learning%202.pdf)
+	- [Flennerhag et al. - 2022 - Bootstrapped Meta-Learning.pdf](./reinforcement%20learning/Flennerhag%20et%20al.%20-%202022%20-%20Bootstrapped%20Meta-Learning.pdf)
 	- [Berner et al. - Dota 2 with Large Scale Deep Reinforcement Learnin.pdf](./reinforcement%20learning/Berner%20et%20al.%20-%20Dota%202%20with%20Large%20Scale%20Deep%20Reinforcement%20Learnin.pdf)
 - [ai-gaming](./ai-gaming)
 	- [Jaderberg et al. - 2018 - Human-level performance in first-person multiplaye.pdf](./ai-gaming/Jaderberg%20et%20al.%20-%202018%20-%20Human-level%20performance%20in%20first-person%20multiplaye.pdf)
