@@ -110,6 +110,7 @@ A place to collect and sync papers I found helpful.
 - [meta learning](./meta%20learning)
 	- [Finn et al. - 2017 - Model-Agnostic Meta-Learning for Fast Adaptation o.pdf](./meta%20learning/Finn%20et%20al.%20-%202017%20-%20Model-Agnostic%20Meta-Learning%20for%20Fast%20Adaptation%20o.pdf)
 	- [Snell et al. - Prototypical Networks for Few-shot Learning.pdf](./meta%20learning/Snell%20et%20al.%20-%20Prototypical%20Networks%20for%20Few-shot%20Learning.pdf)
+	- [Rajeswaran et al. - 2019 - Meta-Learning with Implicit Gradients.pdf](./meta%20learning/Rajeswaran%20et%20al.%20-%202019%20-%20Meta-Learning%20with%20Implicit%20Gradients.pdf)
 	- [Vinyals et al. - 2017 - Matching Networks for One Shot Learning.pdf](./meta%20learning/Vinyals%20et%20al.%20-%202017%20-%20Matching%20Networks%20for%20One%20Shot%20Learning.pdf)
 - [deep learning](./deep%20learning)
 	- [Chen et al. - 2016 - Net2Net Accelerating Learning via Knowledge Trans.pdf](./deep%20learning/Chen%20et%20al.%20-%202016%20-%20Net2Net%20Accelerating%20Learning%20via%20Knowledge%20Trans.pdf)
