@@ -109,6 +109,7 @@ A place to collect and sync papers I found helpful.
 	- [Garrabrant et al. - 2016 - Logical Induction.pdf](./algorithm/Garrabrant%20et%20al.%20-%202016%20-%20Logical%20Induction.pdf)
 - [meta learning](./meta%20learning)
 	- [Finn et al. - 2017 - Model-Agnostic Meta-Learning for Fast Adaptation o.pdf](./meta%20learning/Finn%20et%20al.%20-%202017%20-%20Model-Agnostic%20Meta-Learning%20for%20Fast%20Adaptation%20o.pdf)
+	- [Antoniou et al. - 2019 - How to train your MAML.pdf](./meta%20learning/Antoniou%20et%20al.%20-%202019%20-%20How%20to%20train%20your%20MAML.pdf)
 	- [Snell et al. - Prototypical Networks for Few-shot Learning.pdf](./meta%20learning/Snell%20et%20al.%20-%20Prototypical%20Networks%20for%20Few-shot%20Learning.pdf)
 	- [Rajeswaran et al. - 2019 - Meta-Learning with Implicit Gradients.pdf](./meta%20learning/Rajeswaran%20et%20al.%20-%202019%20-%20Meta-Learning%20with%20Implicit%20Gradients.pdf)
 	- [Vinyals et al. - 2017 - Matching Networks for One Shot Learning.pdf](./meta%20learning/Vinyals%20et%20al.%20-%202017%20-%20Matching%20Networks%20for%20One%20Shot%20Learning.pdf)
