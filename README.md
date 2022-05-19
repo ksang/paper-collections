@@ -67,6 +67,7 @@ A place to collect and sync papers I found helpful.
 	- [Bochkovskiy et al. - 2020 - YOLOv4 Optimal Speed and Accuracy of Object Detec.pdf](./computer%20vision/Bochkovskiy%20et%20al.%20-%202020%20-%20YOLOv4%20Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detec.pdf)
 	- [Liu et al. - 2022 - A ConvNet for the 2020s.pdf](./computer%20vision/Liu%20et%20al.%20-%202022%20-%20A%20ConvNet%20for%20the%202020s.pdf)
 	- [Tomasev et al. - 2022 - Pushing the limits of self-supervised ResNets Can.pdf](./computer%20vision/Tomasev%20et%20al.%20-%202022%20-%20Pushing%20the%20limits%20of%20self-supervised%20ResNets%20Can.pdf)
+	- [Selvaraju et al. - 2020 - Grad-CAM Visual Explanations from Deep Networks v.pdf](./computer%20vision/Selvaraju%20et%20al.%20-%202020%20-%20Grad-CAM%20Visual%20Explanations%20from%20Deep%20Networks%20v.pdf)
 	- [Richter et al. - Enhancing photorealism enhancement.pdf](./computer%20vision/Richter%20et%20al.%20-%20Enhancing%20photorealism%20enhancement.pdf)
 	- [He et al. - 2015 - Deep Residual Learning for Image Recognition.pdf](./computer%20vision/He%20et%20al.%20-%202015%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)
 	- [Burgess et al. - 2019 - MONet Unsupervised Scene Decomposition and Repres.pdf](./computer%20vision/Burgess%20et%20al.%20-%202019%20-%20MONet%20Unsupervised%20Scene%20Decomposition%20and%20Repres.pdf)
