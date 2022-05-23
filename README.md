@@ -89,6 +89,7 @@ A place to collect and sync papers I found helpful.
 	- [Baevski et al. - data2vec A General Framework for Self-supervised .pdf](./natural%20language%20processing/Baevski%20et%20al.%20-%20data2vec%20A%20General%20Framework%20for%20Self-supervised%20.pdf)
 	- [Ammanabrolu and Riedl - 2021 - Situated Language Learning via Interactive Narrati.pdf](./natural%20language%20processing/Ammanabrolu%20and%20Riedl%20-%202021%20-%20Situated%20Language%20Learning%20via%20Interactive%20Narrati.pdf)
 	- [Devlin et al. - 2019 - BERT Pre-training of Deep Bidirectional Transform.pdf](./natural%20language%20processing/Devlin%20et%20al.%20-%202019%20-%20BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transform.pdf)
+	- [Zadeh et al. - 2017 - Tensor Fusion Network for Multimodal Sentiment Ana.pdf](./natural%20language%20processing/Zadeh%20et%20al.%20-%202017%20-%20Tensor%20Fusion%20Network%20for%20Multimodal%20Sentiment%20Ana.pdf)
 	- [Mikolov et al. - 2013 - Efficient Estimation of Word Representations in Ve.pdf](./natural%20language%20processing/Mikolov%20et%20al.%20-%202013%20-%20Efficient%20Estimation%20of%20Word%20Representations%20in%20Ve.pdf)
 	- [Zhang et al. - 2020 - DialoGPT Large-Scale Generative Pre-training for .pdf](./natural%20language%20processing/Zhang%20et%20al.%20-%202020%20-%20DialoGPT%20Large-Scale%20Generative%20Pre-training%20for%20.pdf)
 	- [Guo et al. - 2017 - Long Text Generation via Adversarial Training with.pdf](./natural%20language%20processing/Guo%20et%20al.%20-%202017%20-%20Long%20Text%20Generation%20via%20Adversarial%20Training%20with.pdf)
