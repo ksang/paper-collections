@@ -36,6 +36,7 @@ A place to collect and sync papers I found helpful.
 	- [Zahavy et al. - Learn What Not to Learn Action Elimination with D.pdf](./reinforcement%20learning/Zahavy%20et%20al.%20-%20Learn%20What%20Not%20to%20Learn%20Action%20Elimination%20with%20D.pdf)
 	- [Côté et al. - 2018 - TextWorld A Learning Environment for Text-based G.pdf](./reinforcement%20learning/Côté%20et%20al.%20-%202018%20-%20TextWorld%20A%20Learning%20Environment%20for%20Text-based%20G.pdf)
 	- [Heinrich and Lanctot - Fictitious Self-Play in Extensive-Form Games.pdf](./reinforcement%20learning/Heinrich%20and%20Lanctot%20-%20Fictitious%20Self-Play%20in%20Extensive-Form%20Games.pdf)
+	- [Schrittwieser et al. - 2020 - Mastering Atari, Go, Chess and Shogi by Planning w.pdf](./reinforcement%20learning/Schrittwieser%20et%20al.%20-%202020%20-%20Mastering%20Atari,%20Go,%20Chess%20and%20Shogi%20by%20Planning%20w.pdf)
 	- [Szepesvári - 2010 - Algorithms for Reinforcement Learning 2.pdf](./reinforcement%20learning/Szepesvári%20-%202010%20-%20Algorithms%20for%20Reinforcement%20Learning%202.pdf)
 	- [Flennerhag et al. - 2022 - Bootstrapped Meta-Learning.pdf](./reinforcement%20learning/Flennerhag%20et%20al.%20-%202022%20-%20Bootstrapped%20Meta-Learning.pdf)
 	- [Berner et al. - Dota 2 with Large Scale Deep Reinforcement Learnin.pdf](./reinforcement%20learning/Berner%20et%20al.%20-%20Dota%202%20with%20Large%20Scale%20Deep%20Reinforcement%20Learnin.pdf)
