@@ -118,6 +118,7 @@ A place to collect and sync papers I found helpful.
 - [deep learning](./deep%20learning)
 	- [Chen et al. - 2016 - Net2Net Accelerating Learning via Knowledge Trans.pdf](./deep%20learning/Chen%20et%20al.%20-%202016%20-%20Net2Net%20Accelerating%20Learning%20via%20Knowledge%20Trans.pdf)
 	- [Parr and Howard - 2018 - The Matrix Calculus You Need For Deep Learning.pdf](./deep%20learning/Parr%20and%20Howard%20-%202018%20-%20The%20Matrix%20Calculus%20You%20Need%20For%20Deep%20Learning.pdf)
+	- [Zhang et al. - 2019 - AE2-Nets Autoencoder in Autoencoder Networks.pdf](./deep%20learning/Zhang%20et%20al.%20-%202019%20-%20AE2-Nets%20Autoencoder%20in%20Autoencoder%20Networks.pdf)
 	- [Mitrovic et al. - 2020 - Representation Learning via Invariant Causal Mecha.pdf](./deep%20learning/Mitrovic%20et%20al.%20-%202020%20-%20Representation%20Learning%20via%20Invariant%20Causal%20Mecha.pdf)
 	- [Shwartz-Ziv and Tishby - 2017 - Opening the Black Box of Deep Neural Networks via .pdf](./deep%20learning/Shwartz-Ziv%20and%20Tishby%20-%202017%20-%20Opening%20the%20Black%20Box%20of%20Deep%20Neural%20Networks%20via%20.pdf)
 	- [Shwartz-Ziv - 2022 - Information Flow in Deep Neural Networks.pdf](./deep%20learning/Shwartz-Ziv%20-%202022%20-%20Information%20Flow%20in%20Deep%20Neural%20Networks.pdf)
