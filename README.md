@@ -144,6 +144,7 @@ A place to collect and sync papers I found helpful.
 	- [Goodfellow et al. - 2014 - Generative Adversarial Networks.pdf](./generative%20models/Goodfellow%20et%20al.%20-%202014%20-%20Generative%20Adversarial%20Networks.pdf)
 	- [Kingma and Welling - 2019 - An Introduction to Variational Autoencoders.pdf](./generative%20models/Kingma%20and%20Welling%20-%202019%20-%20An%20Introduction%20to%20Variational%20Autoencoders.pdf)
 	- [Elsayed et al. - 2018 - Adversarial Reprogramming of Neural Networks.pdf](./generative%20models/Elsayed%20et%20al.%20-%202018%20-%20Adversarial%20Reprogramming%20of%20Neural%20Networks.pdf)
+	- [Donahue et al. - 2017 - Adversarial Feature Learning.pdf](./generative%20models/Donahue%20et%20al.%20-%202017%20-%20Adversarial%20Feature%20Learning.pdf)
 	- [Arjovsky et al. - 2017 - Wasserstein GAN.pdf](./generative%20models/Arjovsky%20et%20al.%20-%202017%20-%20Wasserstein%20GAN.pdf)
 	- [Miyato et al. - 2018 - Spectral Normalization for Generative Adversarial .pdf](./generative%20models/Miyato%20et%20al.%20-%202018%20-%20Spectral%20Normalization%20for%20Generative%20Adversarial%20.pdf)
 	- [Salimans et al. - 2017 - PixelCNN++ Improving the PixelCNN with Discretize.pdf](./generative%20models/Salimans%20et%20al.%20-%202017%20-%20PixelCNN++%20Improving%20the%20PixelCNN%20with%20Discretize.pdf)
