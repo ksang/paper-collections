@@ -110,6 +110,7 @@ A place to collect and sync papers I found helpful.
 	- [Guo et al. - 2020 - Gen-LaneNet A Generalized and Scalable Approach f.pdf](./autonomous%20driving/Guo%20et%20al.%20-%202020%20-%20Gen-LaneNet%20A%20Generalized%20and%20Scalable%20Approach%20f.pdf)
 	- [Philion and Fidler - 2020 - Lift, Splat, Shoot Encoding Images from Arbitrary.pdf](./autonomous%20driving/Philion%20and%20Fidler%20-%202020%20-%20Lift,%20Splat,%20Shoot%20Encoding%20Images%20from%20Arbitrary.pdf)
 - [mathematics](./mathematics)
+	- [Anderson - 1982 - Reverse-time diffusion equation models.pdf](./mathematics/Anderson%20-%201982%20-%20Reverse-time%20diffusion%20equation%20models.pdf)
 	- [Perkowski - Backward Stochastic Diﬀerential Equations an Intr.pdf](./mathematics/Perkowski%20-%20Backward%20Stochastic%20Diﬀerential%20Equations%20an%20Intr.pdf)
 - [algorithm](./algorithm)
 	- [Garrabrant et al. - 2016 - Logical Induction.pdf](./algorithm/Garrabrant%20et%20al.%20-%202016%20-%20Logical%20Induction.pdf)
